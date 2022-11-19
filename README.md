@@ -12,7 +12,7 @@ Good luck!
 
 1. Clone the repo and link railway
     ```sh
-    git clone https://github.com/riowidywasa/BINAR_FSW-3_Challenge-8
+    git clone https://github.com/riowidywasa/BINAR_FSW-3_Challenge-08
 
     railway https://binarfsw-3challenge-8-production.up.railway.app/
     ```
